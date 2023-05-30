@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "Best Guides & Online Tips"
 ---
 
-# Hello World
+# thewebmasterin
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Designing | Developmnt | Marketing
