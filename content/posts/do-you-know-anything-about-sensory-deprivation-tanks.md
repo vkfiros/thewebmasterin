@@ -5,7 +5,7 @@ tags:
   - Web Hosting
   - Hostinger
   - "2023"
-social_image: /media/rocket.jpg
+social_image: /media/hosting.jpg
 description: The Ultimate Guide to Choosing the Right Web Hosting Provider for Your Website
 ---
 
