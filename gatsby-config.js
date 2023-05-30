@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `thewebmasterin`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Firos vk`,
+      summary: `Designer & Frontend Developer`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Guides & Online Tips`,
+    siteUrl: `https://thewebmasterin.netlify.app/`,
     social: {
       twitter: `yinkakun`,
     },
